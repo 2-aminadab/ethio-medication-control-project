@@ -1,3 +1,5 @@
+```
+
 import React, { Component } from "react";
 import { render } from "@testing-library/react";
 import night from "./night.jpg";
@@ -80,3 +82,6 @@ export default class Home extends Component {
     );
   }
 }
+
+
+```
